@@ -22,7 +22,7 @@
     border-radius: 20px;
 }
 .category_btn:hover{
-    background-color: #690202 !important;
+    background-color: #000000 !important;
     color: white !important;
 }
 .category_btn:hover span {
