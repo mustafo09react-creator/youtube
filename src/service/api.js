@@ -13,10 +13,10 @@ const options = {
   },
 };
 
-
 export const Api = {
     async fetching(url) {
         const response = await axios.get(`${base_url}/${url}`, options)
         return response.data
     }
 }
+// salom yangi habar
